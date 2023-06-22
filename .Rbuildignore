@@ -1,2 +1,4 @@
 ^pacta\.r\.package\.Rproj$
 ^\.Rproj\.user$
+^codecov\.yml$
+^\.github$
