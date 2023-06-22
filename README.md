@@ -1,1 +1,1 @@
-# pacta.r.package.template
+# pacta.r.package
