@@ -8,3 +8,18 @@
 
 The goal of `pacta.r.package` is to provide a default template R package 
 template. This template can be used to easily scaffold new PACTA R packages. 
+
+## Installation
+
+Install the released version of `pacta.r.package` from CRAN with:
+
+``` r
+install.packages("pacta.r.package")
+```
+
+Or install the development version of `pacta.r.package` with something like this:
+
+``` r
+# install.packages("pak")
+pak::pak("RMI-PACTA/pacta.r.package")
+```
